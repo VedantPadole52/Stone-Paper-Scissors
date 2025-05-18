@@ -20,7 +20,7 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
-3. Start playing!
+3. Start playing
 
 ## Live Demo Link:
 https://stone-paper-scissors-tau-sooty.vercel.app/
